@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #a4b3c2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* Header start */
+header{
+
+}
+.profile-imaje{
+    width: 100px;
+    height: 120px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+}
+.header-contact a{
+    display: block;
+    text-decoration: none;
+    color: rgb(16, 13, 173);
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#main-start{
+
+}
+.section-first{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+    text-align: justify;
+}
+.clear-di{
+    clear: both;
+}
+.hr{
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 30px;
+}
+/* section-1 end */
+
+.section-first{
+
+}
+.edu{
+    width: 30%;
+    float: left;
+}
+.ssc{
+    width: 35%;
+    float: left;
+}
+.hsc{
+    width: 35%;
+    float: left;
+}
+.fooder-div{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0px 15px;
+
+}
+.fooder-div a{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.fooder-div a:hover{
+    text-decoration: underline;
+    color: rgb(216, 0, 0);
+}
+.fooder-div p{
+    margin-top: 20px;
+    font-size: 15px;
+}
